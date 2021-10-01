@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avin008
+- 👋 Hi, I’m Avinash Mahananda @Avin008
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Javascript && css
 - 📫 How to reach me Twitter https://twitter.com/AvinashMahanan1
