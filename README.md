@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Mahananda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript, Html, Css**
+- 🌱 I’m currently learning **HTML, CSS, JS, REACT**
 
 - 👨‍💻 All of my projects are available at [https://avinashmahananda.netlify.app/](https://avinashmahananda.netlify.app/)
 
