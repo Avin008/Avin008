@@ -9,6 +9,9 @@
 
 - ⚡ Fun fact **By working faithfully 8 hours a day you may eventually get to be boss and work 12 hours a day.**
 
+![Avinash Mahananda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avin008&count_private=true&show_icons=true&theme=tokyonight)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/avinashmahanan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avinashmahanan1" height="30" width="40" /></a>
