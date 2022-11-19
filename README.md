@@ -3,9 +3,8 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, REACT**
 
-- 👨‍💻 All of my projects are available at [https://avinashmahananda.netlify.app/](https://avinashmahananda.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://avinashmahananda.vercel.app/](https://avinashmahananda.vercel.app/)
 
-- 📝 Read my blogs at [https://avinashmahananda-blogs.netlify.app/](https://avinashmahananda-blogs.netlify.app/)
 
 - ⚡ Fun fact **By working faithfully 8 hours a day you may eventually get to be boss and work 12 hours a day.**
 
