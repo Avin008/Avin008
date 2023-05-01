@@ -2,7 +2,7 @@
 
 #### A Full-Stack Developer leaning more towards Frontend 🌟
 
-- 💅 [Portfolio](https://avinashmahananda.vercel.app/)
+- ✨ [Portfolio](https://avinashmahananda.vercel.app/)
 - ⚙️ Technologies I use: `next-js`, `typescript`, `tailwind-css`, `react-query`, `node`, `express`, `mongodb`, `firebase`
 - 🌱 Learning about **Web Technologies**
 - 💬 Ping me about **react**, **web design**, **next-js**, **vue-js**
