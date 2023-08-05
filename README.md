@@ -5,7 +5,7 @@
 - ✨ [Portfolio](https://avinashmahananda.vercel.app/)
 - ⚙️ Technologies I use: `next-js`, `typescript`, `tailwind-css`, `react-query`, `node`, `express`, `mongodb`, `firebase`
 - 🌱 Learning about **Web Technologies**
-- 💬 Ping me about **react**, **next-js**, **vue-js**
+- 💬 Ping me about **react**, **next-js**
 - 📫 Reach me: [Twitter](https://twitter.com/AvinashMahanan1), [LinkedIn](https://www.linkedin.com/in/avinash-mahananda/) 
 
 #### Projects I've Built
